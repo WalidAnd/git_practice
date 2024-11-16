@@ -5,7 +5,8 @@ Oranges
 Strawbarries
 Apples
 
-MEAT 
+MEAT
+Sausages
 
 DAIRY
 
